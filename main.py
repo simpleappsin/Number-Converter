@@ -10,7 +10,7 @@ if a == 1:
 
         if __name__ == '__main__':
             print("#########################################")
-            print("The convertion is done!" + "\n" + "Binary: " + str(converter(decimal)))
+            print("The conversion is done!" + "\n" + "Binary: " + str(converter(decimal)))
             number = str(converter(decimal))
             print("#########################################")
             """
@@ -27,7 +27,7 @@ if a == 2:
         for digit in bi:
             deci = deci*2 + int(digit)
         print("#########################################")
-        print("The convertion is done!" + "\n" + "Binary: ", str(deci))
+        print("The conversion is done!" + "\n" + "Binary: ", str(deci))
         #number = str(convertion(bi))
         print("#########################################")
             
